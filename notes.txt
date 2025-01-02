@@ -6,4 +6,4 @@ Device manager : start emulator Pixel 9
 
 Running device: will show emulator
 
-Run the app
+Run the app.
