@@ -1,0 +1,9 @@
+Mongo db compass : connect to localhost:27017
+
+terminal: adb reverse tcp:27017 tcp:27017
+
+Device manager : start emulator Pixel 9
+
+Running device: will show emulator
+
+Run the app
